@@ -1,7 +1,7 @@
 # intro-to-github
 My first Skills course
 
-****HELLO THERE!👋
+****HELLO THERE!👋****
 
 🔭I'm currently learning something cool and interesting!
 
